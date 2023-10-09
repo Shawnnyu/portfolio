@@ -2,8 +2,8 @@
 
 # HTML/CSS/JS Projects
 
-https://shawnnyu.github.io/etch-a-sketch/
+[Etch-a-sketch](https://shawnnyu.github.io/etch-a-sketch/)
 
-https://shawnnyu.github.io/Project-Landing-Page/
+[Project-landing-page](https://shawnnyu.github.io/Project-Landing-Page/)
 
-https://shawnnyu.github.io/Calculator/
+[Calculator](https://shawnnyu.github.io/Calculator/)
