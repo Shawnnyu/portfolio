@@ -7,3 +7,5 @@
 * [Project-landing-page](https://shawnnyu.github.io/Project-Landing-Page/)
 
 * [Calculator](https://shawnnyu.github.io/Calculator/)
+
+* [Python Projects Repo](https://github.com/Shawnnyu/PythonProjects)
