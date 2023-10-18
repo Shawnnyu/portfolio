@@ -8,4 +8,6 @@
 
 * [Calculator](https://shawnnyu.github.io/Calculator/)
 
+* [Library](https://shawnnyu.github.io/library/)
+
 * [Python Projects Repo](https://github.com/Shawnnyu/PythonProjects)
