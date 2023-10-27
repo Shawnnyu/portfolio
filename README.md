@@ -10,4 +10,6 @@
 
 * [Library](https://shawnnyu.github.io/library/)
 
+* [Tic-Tac-Toe](https://shawnnyu.github.io/tic-tac-toe/)
+
 * [Python Projects Repo](https://github.com/Shawnnyu/PythonProjects)
