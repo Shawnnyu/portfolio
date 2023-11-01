@@ -12,4 +12,6 @@
 
 * [Tic-Tac-Toe](https://shawnnyu.github.io/tic-tac-toe/)
 
+* [Resturant Page](https://shawnnyu.github.io/resturant-home/)
+
 * [Python Projects Repo](https://github.com/Shawnnyu/PythonProjects)
