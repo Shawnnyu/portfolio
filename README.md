@@ -6,6 +6,8 @@
 
 * [Project-landing-page](https://shawnnyu.github.io/Project-Landing-Page/)
 
+* [Sign-up page](https://shawnnyu.github.io/sign-up-page/)
+
 * [Calculator](https://shawnnyu.github.io/Calculator/)
 
 * [Library](https://shawnnyu.github.io/library/)
